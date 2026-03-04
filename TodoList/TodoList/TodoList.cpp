@@ -15,7 +15,7 @@
 #include <algorithm>
 
 static const wchar_t* kFilePath =
-L"C:\\Users\\LiuNeng\\Desktop\\todolist\\list.txt";
+L"../../list.txt";
 
 static const int ID_LISTBOX = 501;
 static const int ID_HOTKEY_F8 = 1001;

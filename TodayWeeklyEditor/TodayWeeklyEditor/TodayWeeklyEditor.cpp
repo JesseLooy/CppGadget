@@ -16,7 +16,7 @@
 #pragma comment(lib, "comctl32.lib")
 
 static const wchar_t* kFilePath =
-L"C:\\Users\\LiuNeng\\Desktop\\todolist\\list.txt";
+L"../../list.txt";
 
 // UI IDs
 static const int ID_DATEPICK = 1001;
