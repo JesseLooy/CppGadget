@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../TodayWeeklyEditor/TodayWeeklyEditor/TodayWeeklyEditor.vcxproj" Id="df00a1f7-f65f-43d9-a836-29251557d1f4" />
+  <Project Path="TodoList/TodoList.vcxproj" Id="3ecbc4c6-31e5-4ccb-8f7a-0a5688694d7f" />
+</Solution>
